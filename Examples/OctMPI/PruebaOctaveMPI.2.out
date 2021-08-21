@@ -1,0 +1,25 @@
+GNU Octave, version 2.1.72 (i486-pc-linux-gnu).
+Copyright (C) 2005 John W. Eaton.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTIBILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/help-wanted.html
+
+Report bugs to <bug@octave.org> (but first, please read
+http://www.octave.org/bugs.html to learn how to write a helpful report).
+
+my_rank: 2
+sA =
+
+  20  15
+
+sB =
+
+  15  10
+
+my_rank: 2
+SUCCESS

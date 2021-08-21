@@ -1,0 +1,4954 @@
+GNU Octave, version 2.1.72 (i486-pc-linux-gnu).
+Copyright (C) 2005 John W. Eaton.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTIBILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/help-wanted.html
+
+Report bugs to <bug@octave.org> (but first, please read
+http://www.octave.org/bugs.html to learn how to write a helpful report).
+
+my_rank: 0
+sA =
+
+  20  15
+
+sB =
+
+  15  10
+
+dest_tag = 200001
+valPosE =
+
+  1  1
+
+enviado paquete de datos numero 1
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200002
+valPosE =
+
+  1  2
+
+enviado paquete de datos numero 2
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200003
+valPosE =
+
+  1  3
+
+enviado paquete de datos numero 3
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200004
+valPosE =
+
+  1  4
+
+enviado paquete de datos numero 4
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200005
+valPosE =
+
+  1  5
+
+enviado paquete de datos numero 5
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200006
+valPosE =
+
+  1  6
+
+enviado paquete de datos numero 6
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200007
+valPosE =
+
+  1  7
+
+enviado paquete de datos numero 7
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200008
+valPosE =
+
+  1  8
+
+enviado paquete de datos numero 8
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200009
+valPosE =
+
+  1  9
+
+enviado paquete de datos numero 9
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200010
+valPosE =
+
+   1  10
+
+enviado paquete de datos numero 10
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200011
+valPosE =
+
+  2  1
+
+enviado paquete de datos numero 11
+leader_tag = 3000001
+message_ranks = 
+message_tags = 
+dest_tag = 200012
+valPosE =
+
+  2  2
+
+enviado paquete de datos numero 12
+leader_tag = 3000001
+message_ranks = 1
+message_tags = 3000001
+Received data packet number 1
+C = 30
+recvCounter = 2
+dest_tag = 200013
+valPosE =
+
+  2  3
+
+enviado paquete de datos numero 13
+leader_tag = 3000002
+message_ranks = 2
+message_tags = 3000002
+Received data packet number 2
+C =
+
+  30  30
+
+recvCounter = 3
+dest_tag = 200014
+valPosE =
+
+  2  4
+
+enviado paquete de datos numero 14
+leader_tag = 3000003
+message_ranks = 3
+message_tags = 3000003
+Received data packet number 3
+C =
+
+  30  30  30
+
+recvCounter = 4
+dest_tag = 200015
+valPosE =
+
+  2  5
+
+enviado paquete de datos numero 15
+leader_tag = 3000004
+message_ranks = 4
+message_tags = 3000004
+Received data packet number 4
+C =
+
+  30  30  30  30
+
+recvCounter = 5
+dest_tag = 200016
+valPosE =
+
+  2  6
+
+enviado paquete de datos numero 16
+leader_tag = 3000005
+message_ranks = 1
+message_tags = 3000005
+Received data packet number 5
+C =
+
+  30  30  30  30  30
+
+recvCounter = 6
+dest_tag = 200017
+valPosE =
+
+  2  7
+
+enviado paquete de datos numero 17
+leader_tag = 3000006
+message_ranks = 2
+message_tags = 3000006
+Received data packet number 6
+C =
+
+  30  30  30  30  30  30
+
+recvCounter = 7
+dest_tag = 200018
+valPosE =
+
+  2  8
+
+enviado paquete de datos numero 18
+leader_tag = 3000007
+message_ranks = 3
+message_tags = 3000007
+Received data packet number 7
+C =
+
+  30  30  30  30  30  30  30
+
+recvCounter = 8
+dest_tag = 200019
+valPosE =
+
+  2  9
+
+enviado paquete de datos numero 19
+leader_tag = 3000008
+message_ranks = 4
+message_tags = 3000008
+Received data packet number 8
+C =
+
+  30  30  30  30  30  30  30  30
+
+recvCounter = 9
+dest_tag = 200020
+valPosE =
+
+   2  10
+
+enviado paquete de datos numero 20
+leader_tag = 3000009
+message_ranks = 1
+message_tags = 3000009
+Received data packet number 9
+C =
+
+  30  30  30  30  30  30  30  30  30
+
+recvCounter = 10
+dest_tag = 200021
+valPosE =
+
+  3  1
+
+enviado paquete de datos numero 21
+leader_tag = 3000010
+message_ranks = 2
+message_tags = 3000010
+Received data packet number 10
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 11
+dest_tag = 200022
+valPosE =
+
+  3  2
+
+enviado paquete de datos numero 22
+leader_tag = 3000011
+message_ranks = 3
+message_tags = 3000011
+Received data packet number 11
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 12
+dest_tag = 200023
+valPosE =
+
+  3  3
+
+enviado paquete de datos numero 23
+leader_tag = 3000012
+message_ranks = 4
+message_tags = 3000012
+Received data packet number 12
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 13
+dest_tag = 200024
+valPosE =
+
+  3  4
+
+enviado paquete de datos numero 24
+leader_tag = 3000013
+message_ranks = 1
+message_tags = 3000013
+Received data packet number 13
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 14
+dest_tag = 200025
+valPosE =
+
+  3  5
+
+enviado paquete de datos numero 25
+leader_tag = 3000014
+message_ranks = 2
+message_tags = 3000014
+Received data packet number 14
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 15
+dest_tag = 200026
+valPosE =
+
+  3  6
+
+enviado paquete de datos numero 26
+leader_tag = 3000015
+message_ranks = 3
+message_tags = 3000015
+Received data packet number 15
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 16
+dest_tag = 200027
+valPosE =
+
+  3  7
+
+enviado paquete de datos numero 27
+leader_tag = 3000016
+message_ranks = 4
+message_tags = 3000016
+Received data packet number 16
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 17
+dest_tag = 200028
+valPosE =
+
+  3  8
+
+enviado paquete de datos numero 28
+leader_tag = 3000017
+message_ranks = 1
+message_tags = 3000017
+Received data packet number 17
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 18
+dest_tag = 200029
+valPosE =
+
+  3  9
+
+enviado paquete de datos numero 29
+leader_tag = 3000018
+message_ranks = 2
+message_tags = 3000018
+Received data packet number 18
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 19
+dest_tag = 200030
+valPosE =
+
+   3  10
+
+enviado paquete de datos numero 30
+leader_tag = 3000019
+message_ranks = 3
+message_tags = 3000019
+Received data packet number 19
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 20
+dest_tag = 200031
+valPosE =
+
+  4  1
+
+enviado paquete de datos numero 31
+leader_tag = 3000020
+message_ranks = 4
+message_tags = 3000020
+Received data packet number 20
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 21
+dest_tag = 200032
+valPosE =
+
+  4  2
+
+enviado paquete de datos numero 32
+leader_tag = 3000021
+message_ranks = 1
+message_tags = 3000021
+Received data packet number 21
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 22
+dest_tag = 200033
+valPosE =
+
+  4  3
+
+enviado paquete de datos numero 33
+leader_tag = 3000022
+message_ranks = 2
+message_tags = 3000022
+Received data packet number 22
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 23
+dest_tag = 200034
+valPosE =
+
+  4  4
+
+enviado paquete de datos numero 34
+leader_tag = 3000023
+message_ranks = 3
+message_tags = 3000023
+Received data packet number 23
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 24
+dest_tag = 200035
+valPosE =
+
+  4  5
+
+enviado paquete de datos numero 35
+leader_tag = 3000024
+message_ranks = 4
+message_tags = 3000024
+Received data packet number 24
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 25
+dest_tag = 200036
+valPosE =
+
+  4  6
+
+enviado paquete de datos numero 36
+leader_tag = 3000025
+message_ranks = 1
+message_tags = 3000025
+Received data packet number 25
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 26
+dest_tag = 200037
+valPosE =
+
+  4  7
+
+enviado paquete de datos numero 37
+leader_tag = 3000026
+message_ranks = 2
+message_tags = 3000026
+Received data packet number 26
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 27
+dest_tag = 200038
+valPosE =
+
+  4  8
+
+enviado paquete de datos numero 38
+leader_tag = 3000027
+message_ranks = 3
+message_tags = 3000027
+Received data packet number 27
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 28
+dest_tag = 200039
+valPosE =
+
+  4  9
+
+enviado paquete de datos numero 39
+leader_tag = 3000028
+message_ranks = 4
+message_tags = 3000028
+Received data packet number 28
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 29
+dest_tag = 200040
+valPosE =
+
+   4  10
+
+enviado paquete de datos numero 40
+leader_tag = 3000029
+message_ranks = 1
+message_tags = 3000029
+Received data packet number 29
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 30
+dest_tag = 200041
+valPosE =
+
+  5  1
+
+enviado paquete de datos numero 41
+leader_tag = 3000030
+message_ranks = 2
+message_tags = 3000030
+Received data packet number 30
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 31
+dest_tag = 200042
+valPosE =
+
+  5  2
+
+enviado paquete de datos numero 42
+leader_tag = 3000031
+message_ranks = 3
+message_tags = 3000031
+Received data packet number 31
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 32
+dest_tag = 200043
+valPosE =
+
+  5  3
+
+enviado paquete de datos numero 43
+leader_tag = 3000032
+message_ranks = 4
+message_tags = 3000032
+Received data packet number 32
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 33
+dest_tag = 200044
+valPosE =
+
+  5  4
+
+enviado paquete de datos numero 44
+leader_tag = 3000033
+message_ranks = 1
+message_tags = 3000033
+Received data packet number 33
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 34
+dest_tag = 200045
+valPosE =
+
+  5  5
+
+enviado paquete de datos numero 45
+leader_tag = 3000034
+message_ranks = 2
+message_tags = 3000034
+Received data packet number 34
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 35
+dest_tag = 200046
+valPosE =
+
+  5  6
+
+enviado paquete de datos numero 46
+leader_tag = 3000035
+message_ranks = 3
+message_tags = 3000035
+Received data packet number 35
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 36
+dest_tag = 200047
+valPosE =
+
+  5  7
+
+enviado paquete de datos numero 47
+leader_tag = 3000036
+message_ranks = 4
+message_tags = 3000036
+Received data packet number 36
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 37
+dest_tag = 200048
+valPosE =
+
+  5  8
+
+enviado paquete de datos numero 48
+leader_tag = 3000037
+message_ranks = 1
+message_tags = 3000037
+Received data packet number 37
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 38
+dest_tag = 200049
+valPosE =
+
+  5  9
+
+enviado paquete de datos numero 49
+leader_tag = 3000038
+message_ranks = 2
+message_tags = 3000038
+Received data packet number 38
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 39
+dest_tag = 200050
+valPosE =
+
+   5  10
+
+enviado paquete de datos numero 50
+leader_tag = 3000039
+message_ranks = 3
+message_tags = 3000039
+Received data packet number 39
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 40
+dest_tag = 200051
+valPosE =
+
+  6  1
+
+enviado paquete de datos numero 51
+leader_tag = 3000040
+message_ranks = 4
+message_tags = 3000040
+Received data packet number 40
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 41
+dest_tag = 200052
+valPosE =
+
+  6  2
+
+enviado paquete de datos numero 52
+leader_tag = 3000041
+message_ranks = 1
+message_tags = 3000041
+Received data packet number 41
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 42
+dest_tag = 200053
+valPosE =
+
+  6  3
+
+enviado paquete de datos numero 53
+leader_tag = 3000042
+message_ranks = 2
+message_tags = 3000042
+Received data packet number 42
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 43
+dest_tag = 200054
+valPosE =
+
+  6  4
+
+enviado paquete de datos numero 54
+leader_tag = 3000043
+message_ranks = 3
+message_tags = 3000043
+Received data packet number 43
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 44
+dest_tag = 200055
+valPosE =
+
+  6  5
+
+enviado paquete de datos numero 55
+leader_tag = 3000044
+message_ranks = 4
+message_tags = 3000044
+Received data packet number 44
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 45
+dest_tag = 200056
+valPosE =
+
+  6  6
+
+enviado paquete de datos numero 56
+leader_tag = 3000045
+message_ranks = 1
+message_tags = 3000045
+Received data packet number 45
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 46
+dest_tag = 200057
+valPosE =
+
+  6  7
+
+enviado paquete de datos numero 57
+leader_tag = 3000046
+message_ranks = 2
+message_tags = 3000046
+Received data packet number 46
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 47
+dest_tag = 200058
+valPosE =
+
+  6  8
+
+enviado paquete de datos numero 58
+leader_tag = 3000047
+message_ranks = 3
+message_tags = 3000047
+Received data packet number 47
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 48
+dest_tag = 200059
+valPosE =
+
+  6  9
+
+enviado paquete de datos numero 59
+leader_tag = 3000048
+message_ranks = 4
+message_tags = 3000048
+Received data packet number 48
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 49
+dest_tag = 200060
+valPosE =
+
+   6  10
+
+enviado paquete de datos numero 60
+leader_tag = 3000049
+message_ranks = 1
+message_tags = 3000049
+Received data packet number 49
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 50
+dest_tag = 200061
+valPosE =
+
+  7  1
+
+enviado paquete de datos numero 61
+leader_tag = 3000050
+message_ranks = 2
+message_tags = 3000050
+Received data packet number 50
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 51
+dest_tag = 200062
+valPosE =
+
+  7  2
+
+enviado paquete de datos numero 62
+leader_tag = 3000051
+message_ranks = 3
+message_tags = 3000051
+Received data packet number 51
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 52
+dest_tag = 200063
+valPosE =
+
+  7  3
+
+enviado paquete de datos numero 63
+leader_tag = 3000052
+message_ranks = 4
+message_tags = 3000052
+Received data packet number 52
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 53
+dest_tag = 200064
+valPosE =
+
+  7  4
+
+enviado paquete de datos numero 64
+leader_tag = 3000053
+message_ranks = 1
+message_tags = 3000053
+Received data packet number 53
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 54
+dest_tag = 200065
+valPosE =
+
+  7  5
+
+enviado paquete de datos numero 65
+leader_tag = 3000054
+message_ranks = 2
+message_tags = 3000054
+Received data packet number 54
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 55
+dest_tag = 200066
+valPosE =
+
+  7  6
+
+enviado paquete de datos numero 66
+leader_tag = 3000055
+message_ranks = 3
+message_tags = 3000055
+Received data packet number 55
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 56
+dest_tag = 200067
+valPosE =
+
+  7  7
+
+enviado paquete de datos numero 67
+leader_tag = 3000056
+message_ranks = 4
+message_tags = 3000056
+Received data packet number 56
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 57
+dest_tag = 200068
+valPosE =
+
+  7  8
+
+enviado paquete de datos numero 68
+leader_tag = 3000057
+message_ranks = 1
+message_tags = 3000057
+Received data packet number 57
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 58
+dest_tag = 200069
+valPosE =
+
+  7  9
+
+enviado paquete de datos numero 69
+leader_tag = 3000058
+message_ranks = 2
+message_tags = 3000058
+Received data packet number 58
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 59
+dest_tag = 200070
+valPosE =
+
+   7  10
+
+enviado paquete de datos numero 70
+leader_tag = 3000059
+message_ranks = 3
+message_tags = 3000059
+Received data packet number 59
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 60
+dest_tag = 200071
+valPosE =
+
+  8  1
+
+enviado paquete de datos numero 71
+leader_tag = 3000060
+message_ranks = 4
+message_tags = 3000060
+Received data packet number 60
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 61
+dest_tag = 200072
+valPosE =
+
+  8  2
+
+enviado paquete de datos numero 72
+leader_tag = 3000061
+message_ranks = 1
+message_tags = 3000061
+Received data packet number 61
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 62
+dest_tag = 200073
+valPosE =
+
+  8  3
+
+enviado paquete de datos numero 73
+leader_tag = 3000062
+message_ranks = 2
+message_tags = 3000062
+Received data packet number 62
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 63
+dest_tag = 200074
+valPosE =
+
+  8  4
+
+enviado paquete de datos numero 74
+leader_tag = 3000063
+message_ranks = 3
+message_tags = 3000063
+Received data packet number 63
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 64
+dest_tag = 200075
+valPosE =
+
+  8  5
+
+enviado paquete de datos numero 75
+leader_tag = 3000064
+message_ranks = 4
+message_tags = 3000064
+Received data packet number 64
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 65
+dest_tag = 200076
+valPosE =
+
+  8  6
+
+enviado paquete de datos numero 76
+leader_tag = 3000065
+message_ranks = 1
+message_tags = 3000065
+Received data packet number 65
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 66
+dest_tag = 200077
+valPosE =
+
+  8  7
+
+enviado paquete de datos numero 77
+leader_tag = 3000066
+message_ranks = 2
+message_tags = 3000066
+Received data packet number 66
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 67
+dest_tag = 200078
+valPosE =
+
+  8  8
+
+enviado paquete de datos numero 78
+leader_tag = 3000067
+message_ranks = 3
+message_tags = 3000067
+Received data packet number 67
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 68
+dest_tag = 200079
+valPosE =
+
+  8  9
+
+enviado paquete de datos numero 79
+leader_tag = 3000068
+message_ranks = 4
+message_tags = 3000068
+Received data packet number 68
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 69
+dest_tag = 200080
+valPosE =
+
+   8  10
+
+enviado paquete de datos numero 80
+leader_tag = 3000069
+message_ranks = 1
+message_tags = 3000069
+Received data packet number 69
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 70
+dest_tag = 200081
+valPosE =
+
+  9  1
+
+enviado paquete de datos numero 81
+leader_tag = 3000070
+message_ranks = 2
+message_tags = 3000070
+Received data packet number 70
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 71
+dest_tag = 200082
+valPosE =
+
+  9  2
+
+enviado paquete de datos numero 82
+leader_tag = 3000071
+message_ranks = 3
+message_tags = 3000071
+Received data packet number 71
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 72
+dest_tag = 200083
+valPosE =
+
+  9  3
+
+enviado paquete de datos numero 83
+leader_tag = 3000072
+message_ranks = 4
+message_tags = 3000072
+Received data packet number 72
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 73
+dest_tag = 200084
+valPosE =
+
+  9  4
+
+enviado paquete de datos numero 84
+leader_tag = 3000073
+message_ranks = 1
+message_tags = 3000073
+Received data packet number 73
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 74
+dest_tag = 200085
+valPosE =
+
+  9  5
+
+enviado paquete de datos numero 85
+leader_tag = 3000074
+message_ranks = 2
+message_tags = 3000074
+Received data packet number 74
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 75
+dest_tag = 200086
+valPosE =
+
+  9  6
+
+enviado paquete de datos numero 86
+leader_tag = 3000075
+message_ranks = 3
+message_tags = 3000075
+Received data packet number 75
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 76
+dest_tag = 200087
+valPosE =
+
+  9  7
+
+enviado paquete de datos numero 87
+leader_tag = 3000076
+message_ranks = 4
+message_tags = 3000076
+Received data packet number 76
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 77
+dest_tag = 200088
+valPosE =
+
+  9  8
+
+enviado paquete de datos numero 88
+leader_tag = 3000077
+message_ranks = 1
+message_tags = 3000077
+Received data packet number 77
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 78
+dest_tag = 200089
+valPosE =
+
+  9  9
+
+enviado paquete de datos numero 89
+leader_tag = 3000078
+message_ranks = 2
+message_tags = 3000078
+Received data packet number 78
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 79
+dest_tag = 200090
+valPosE =
+
+   9  10
+
+enviado paquete de datos numero 90
+leader_tag = 3000079
+message_ranks = 3
+message_tags = 3000079
+Received data packet number 79
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 80
+dest_tag = 200091
+valPosE =
+
+  10   1
+
+enviado paquete de datos numero 91
+leader_tag = 3000080
+message_ranks = 4
+message_tags = 3000080
+Received data packet number 80
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 81
+dest_tag = 200092
+valPosE =
+
+  10   2
+
+enviado paquete de datos numero 92
+leader_tag = 3000081
+message_ranks = 1
+message_tags = 3000081
+Received data packet number 81
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 82
+dest_tag = 200093
+valPosE =
+
+  10   3
+
+enviado paquete de datos numero 93
+leader_tag = 3000082
+message_ranks = 2
+message_tags = 3000082
+Received data packet number 82
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 83
+dest_tag = 200094
+valPosE =
+
+  10   4
+
+enviado paquete de datos numero 94
+leader_tag = 3000083
+message_ranks = 3
+message_tags = 3000083
+Received data packet number 83
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 84
+dest_tag = 200095
+valPosE =
+
+  10   5
+
+enviado paquete de datos numero 95
+leader_tag = 3000084
+message_ranks = 4
+message_tags = 3000084
+Received data packet number 84
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 85
+dest_tag = 200096
+valPosE =
+
+  10   6
+
+enviado paquete de datos numero 96
+leader_tag = 3000085
+message_ranks = 1
+message_tags = 3000085
+Received data packet number 85
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 86
+dest_tag = 200097
+valPosE =
+
+  10   7
+
+enviado paquete de datos numero 97
+leader_tag = 3000086
+message_ranks = 2
+message_tags = 3000086
+Received data packet number 86
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 87
+dest_tag = 200098
+valPosE =
+
+  10   8
+
+enviado paquete de datos numero 98
+leader_tag = 3000087
+message_ranks = 3
+message_tags = 3000087
+Received data packet number 87
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 88
+dest_tag = 200099
+valPosE =
+
+  10   9
+
+enviado paquete de datos numero 99
+leader_tag = 3000088
+message_ranks = 4
+message_tags = 3000088
+Received data packet number 88
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 89
+dest_tag = 200100
+valPosE =
+
+  10  10
+
+enviado paquete de datos numero 100
+leader_tag = 3000089
+message_ranks = 1
+message_tags = 3000089
+Received data packet number 89
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 90
+dest_tag = 200101
+valPosE =
+
+  11   1
+
+enviado paquete de datos numero 101
+leader_tag = 3000090
+message_ranks = 2
+message_tags = 3000090
+Received data packet number 90
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 91
+dest_tag = 200102
+valPosE =
+
+  11   2
+
+enviado paquete de datos numero 102
+leader_tag = 3000091
+message_ranks = 3
+message_tags = 3000091
+Received data packet number 91
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 92
+dest_tag = 200103
+valPosE =
+
+  11   3
+
+enviado paquete de datos numero 103
+leader_tag = 3000092
+message_ranks = 4
+message_tags = 3000092
+Received data packet number 92
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 93
+dest_tag = 200104
+valPosE =
+
+  11   4
+
+enviado paquete de datos numero 104
+leader_tag = 3000093
+message_ranks = 1
+message_tags = 3000093
+Received data packet number 93
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 94
+dest_tag = 200105
+valPosE =
+
+  11   5
+
+enviado paquete de datos numero 105
+leader_tag = 3000094
+message_ranks = 2
+message_tags = 3000094
+Received data packet number 94
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 95
+dest_tag = 200106
+valPosE =
+
+  11   6
+
+enviado paquete de datos numero 106
+leader_tag = 3000095
+message_ranks = 3
+message_tags = 3000095
+Received data packet number 95
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 96
+dest_tag = 200107
+valPosE =
+
+  11   7
+
+enviado paquete de datos numero 107
+leader_tag = 3000096
+message_ranks = 4
+message_tags = 3000096
+Received data packet number 96
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 97
+dest_tag = 200108
+valPosE =
+
+  11   8
+
+enviado paquete de datos numero 108
+leader_tag = 3000097
+message_ranks = 1
+message_tags = 3000097
+Received data packet number 97
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 98
+dest_tag = 200109
+valPosE =
+
+  11   9
+
+enviado paquete de datos numero 109
+leader_tag = 3000098
+message_ranks = 2
+message_tags = 3000098
+Received data packet number 98
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 99
+dest_tag = 200110
+valPosE =
+
+  11  10
+
+enviado paquete de datos numero 110
+leader_tag = 3000099
+message_ranks = 3
+message_tags = 3000099
+Received data packet number 99
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 100
+dest_tag = 200111
+valPosE =
+
+  12   1
+
+enviado paquete de datos numero 111
+leader_tag = 3000100
+message_ranks = 4
+message_tags = 3000100
+Received data packet number 100
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 101
+dest_tag = 200112
+valPosE =
+
+  12   2
+
+enviado paquete de datos numero 112
+leader_tag = 3000101
+message_ranks = 1
+message_tags = 3000101
+Received data packet number 101
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 102
+dest_tag = 200113
+valPosE =
+
+  12   3
+
+enviado paquete de datos numero 113
+leader_tag = 3000102
+message_ranks = 2
+message_tags = 3000102
+Received data packet number 102
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 103
+dest_tag = 200114
+valPosE =
+
+  12   4
+
+enviado paquete de datos numero 114
+leader_tag = 3000103
+message_ranks = 3
+message_tags = 3000103
+Received data packet number 103
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 104
+dest_tag = 200115
+valPosE =
+
+  12   5
+
+enviado paquete de datos numero 115
+leader_tag = 3000104
+message_ranks = 4
+message_tags = 3000104
+Received data packet number 104
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 105
+dest_tag = 200116
+valPosE =
+
+  12   6
+
+enviado paquete de datos numero 116
+leader_tag = 3000105
+message_ranks = 1
+message_tags = 3000105
+Received data packet number 105
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 106
+dest_tag = 200117
+valPosE =
+
+  12   7
+
+enviado paquete de datos numero 117
+leader_tag = 3000106
+message_ranks = 2
+message_tags = 3000106
+Received data packet number 106
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 107
+dest_tag = 200118
+valPosE =
+
+  12   8
+
+enviado paquete de datos numero 118
+leader_tag = 3000107
+message_ranks = 3
+message_tags = 3000107
+Received data packet number 107
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 108
+dest_tag = 200119
+valPosE =
+
+  12   9
+
+enviado paquete de datos numero 119
+leader_tag = 3000108
+message_ranks = 4
+message_tags = 3000108
+Received data packet number 108
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 109
+dest_tag = 200120
+valPosE =
+
+  12  10
+
+enviado paquete de datos numero 120
+leader_tag = 3000109
+message_ranks = 1
+message_tags = 3000109
+Received data packet number 109
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 110
+dest_tag = 200121
+valPosE =
+
+  13   1
+
+enviado paquete de datos numero 121
+leader_tag = 3000110
+message_ranks = 2
+message_tags = 3000110
+Received data packet number 110
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 111
+dest_tag = 200122
+valPosE =
+
+  13   2
+
+enviado paquete de datos numero 122
+leader_tag = 3000111
+message_ranks = 3
+message_tags = 3000111
+Received data packet number 111
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 112
+dest_tag = 200123
+valPosE =
+
+  13   3
+
+enviado paquete de datos numero 123
+leader_tag = 3000112
+message_ranks = 4
+message_tags = 3000112
+Received data packet number 112
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 113
+dest_tag = 200124
+valPosE =
+
+  13   4
+
+enviado paquete de datos numero 124
+leader_tag = 3000113
+message_ranks = 1
+message_tags = 3000113
+Received data packet number 113
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 114
+dest_tag = 200125
+valPosE =
+
+  13   5
+
+enviado paquete de datos numero 125
+leader_tag = 3000114
+message_ranks = 2
+message_tags = 3000114
+Received data packet number 114
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 115
+dest_tag = 200126
+valPosE =
+
+  13   6
+
+enviado paquete de datos numero 126
+leader_tag = 3000115
+message_ranks = 3
+message_tags = 3000115
+Received data packet number 115
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 116
+dest_tag = 200127
+valPosE =
+
+  13   7
+
+enviado paquete de datos numero 127
+leader_tag = 3000116
+message_ranks = 4
+message_tags = 3000116
+Received data packet number 116
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 117
+dest_tag = 200128
+valPosE =
+
+  13   8
+
+enviado paquete de datos numero 128
+leader_tag = 3000117
+message_ranks = 1
+message_tags = 3000117
+Received data packet number 117
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 118
+dest_tag = 200129
+valPosE =
+
+  13   9
+
+enviado paquete de datos numero 129
+leader_tag = 3000118
+message_ranks = 2
+message_tags = 3000118
+Received data packet number 118
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 119
+dest_tag = 200130
+valPosE =
+
+  13  10
+
+enviado paquete de datos numero 130
+leader_tag = 3000119
+message_ranks = 3
+message_tags = 3000119
+Received data packet number 119
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 120
+dest_tag = 200131
+valPosE =
+
+  14   1
+
+enviado paquete de datos numero 131
+leader_tag = 3000120
+message_ranks = 4
+message_tags = 3000120
+Received data packet number 120
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 121
+dest_tag = 200132
+valPosE =
+
+  14   2
+
+enviado paquete de datos numero 132
+leader_tag = 3000121
+message_ranks = 1
+message_tags = 3000121
+Received data packet number 121
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 122
+dest_tag = 200133
+valPosE =
+
+  14   3
+
+enviado paquete de datos numero 133
+leader_tag = 3000122
+message_ranks = 2
+message_tags = 3000122
+Received data packet number 122
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 123
+dest_tag = 200134
+valPosE =
+
+  14   4
+
+enviado paquete de datos numero 134
+leader_tag = 3000123
+message_ranks = 3
+message_tags = 3000123
+Received data packet number 123
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 124
+dest_tag = 200135
+valPosE =
+
+  14   5
+
+enviado paquete de datos numero 135
+leader_tag = 3000124
+message_ranks = 4
+message_tags = 3000124
+Received data packet number 124
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 125
+dest_tag = 200136
+valPosE =
+
+  14   6
+
+enviado paquete de datos numero 136
+leader_tag = 3000125
+message_ranks = 1
+message_tags = 3000125
+Received data packet number 125
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 126
+dest_tag = 200137
+valPosE =
+
+  14   7
+
+enviado paquete de datos numero 137
+leader_tag = 3000126
+message_ranks = 2
+message_tags = 3000126
+Received data packet number 126
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 127
+dest_tag = 200138
+valPosE =
+
+  14   8
+
+enviado paquete de datos numero 138
+leader_tag = 3000127
+message_ranks = 3
+message_tags = 3000127
+Received data packet number 127
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 128
+dest_tag = 200139
+valPosE =
+
+  14   9
+
+enviado paquete de datos numero 139
+leader_tag = 3000128
+message_ranks = 4
+message_tags = 3000128
+Received data packet number 128
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 129
+dest_tag = 200140
+valPosE =
+
+  14  10
+
+enviado paquete de datos numero 140
+leader_tag = 3000129
+message_ranks = 1
+message_tags = 3000129
+Received data packet number 129
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 130
+dest_tag = 200141
+valPosE =
+
+  15   1
+
+enviado paquete de datos numero 141
+leader_tag = 3000130
+message_ranks = 2
+message_tags = 3000130
+Received data packet number 130
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 131
+dest_tag = 200142
+valPosE =
+
+  15   2
+
+enviado paquete de datos numero 142
+leader_tag = 3000131
+message_ranks = 3
+message_tags = 3000131
+Received data packet number 131
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 132
+dest_tag = 200143
+valPosE =
+
+  15   3
+
+enviado paquete de datos numero 143
+leader_tag = 3000132
+message_ranks = 4
+message_tags = 3000132
+Received data packet number 132
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 133
+dest_tag = 200144
+valPosE =
+
+  15   4
+
+enviado paquete de datos numero 144
+leader_tag = 3000133
+message_ranks = 1
+message_tags = 3000133
+Received data packet number 133
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 134
+dest_tag = 200145
+valPosE =
+
+  15   5
+
+enviado paquete de datos numero 145
+leader_tag = 3000134
+message_ranks = 2
+message_tags = 3000134
+Received data packet number 134
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 135
+dest_tag = 200146
+valPosE =
+
+  15   6
+
+enviado paquete de datos numero 146
+leader_tag = 3000135
+message_ranks = 3
+message_tags = 3000135
+Received data packet number 135
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 136
+dest_tag = 200147
+valPosE =
+
+  15   7
+
+enviado paquete de datos numero 147
+leader_tag = 3000136
+message_ranks = 4
+message_tags = 3000136
+Received data packet number 136
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 137
+dest_tag = 200148
+valPosE =
+
+  15   8
+
+enviado paquete de datos numero 148
+leader_tag = 3000137
+message_ranks = 1
+message_tags = 3000137
+Received data packet number 137
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 138
+dest_tag = 200149
+valPosE =
+
+  15   9
+
+enviado paquete de datos numero 149
+leader_tag = 3000138
+message_ranks = 2
+message_tags = 3000138
+Received data packet number 138
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 139
+dest_tag = 200150
+valPosE =
+
+  15  10
+
+enviado paquete de datos numero 150
+leader_tag = 3000139
+message_ranks = 3
+message_tags = 3000139
+Received data packet number 139
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 140
+dest_tag = 200151
+valPosE =
+
+  16   1
+
+enviado paquete de datos numero 151
+leader_tag = 3000140
+message_ranks = 4
+message_tags = 3000140
+Received data packet number 140
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 141
+dest_tag = 200152
+valPosE =
+
+  16   2
+
+enviado paquete de datos numero 152
+leader_tag = 3000141
+message_ranks = 1
+message_tags = 3000141
+Received data packet number 141
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 142
+dest_tag = 200153
+valPosE =
+
+  16   3
+
+enviado paquete de datos numero 153
+leader_tag = 3000142
+message_ranks = 2
+message_tags = 3000142
+Received data packet number 142
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 143
+dest_tag = 200154
+valPosE =
+
+  16   4
+
+enviado paquete de datos numero 154
+leader_tag = 3000143
+message_ranks = 3
+message_tags = 3000143
+Received data packet number 143
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 144
+dest_tag = 200155
+valPosE =
+
+  16   5
+
+enviado paquete de datos numero 155
+leader_tag = 3000144
+message_ranks = 4
+message_tags = 3000144
+Received data packet number 144
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 145
+dest_tag = 200156
+valPosE =
+
+  16   6
+
+enviado paquete de datos numero 156
+leader_tag = 3000145
+message_ranks = 1
+message_tags = 3000145
+Received data packet number 145
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 146
+dest_tag = 200157
+valPosE =
+
+  16   7
+
+enviado paquete de datos numero 157
+leader_tag = 3000146
+message_ranks = 2
+message_tags = 3000146
+Received data packet number 146
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 147
+dest_tag = 200158
+valPosE =
+
+  16   8
+
+enviado paquete de datos numero 158
+leader_tag = 3000147
+message_ranks = 3
+message_tags = 3000147
+Received data packet number 147
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 148
+dest_tag = 200159
+valPosE =
+
+  16   9
+
+enviado paquete de datos numero 159
+leader_tag = 3000148
+message_ranks = 4
+message_tags = 3000148
+Received data packet number 148
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 149
+dest_tag = 200160
+valPosE =
+
+  16  10
+
+enviado paquete de datos numero 160
+leader_tag = 3000149
+message_ranks = 1
+message_tags = 3000149
+Received data packet number 149
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 150
+dest_tag = 200161
+valPosE =
+
+  17   1
+
+enviado paquete de datos numero 161
+leader_tag = 3000150
+message_ranks = 2
+message_tags = 3000150
+Received data packet number 150
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 151
+dest_tag = 200162
+valPosE =
+
+  17   2
+
+enviado paquete de datos numero 162
+leader_tag = 3000151
+message_ranks = 3
+message_tags = 3000151
+Received data packet number 151
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 152
+dest_tag = 200163
+valPosE =
+
+  17   3
+
+enviado paquete de datos numero 163
+leader_tag = 3000152
+message_ranks = 4
+message_tags = 3000152
+Received data packet number 152
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 153
+dest_tag = 200164
+valPosE =
+
+  17   4
+
+enviado paquete de datos numero 164
+leader_tag = 3000153
+message_ranks = 1
+message_tags = 3000153
+Received data packet number 153
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 154
+dest_tag = 200165
+valPosE =
+
+  17   5
+
+enviado paquete de datos numero 165
+leader_tag = 3000154
+message_ranks = 2
+message_tags = 3000154
+Received data packet number 154
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 155
+dest_tag = 200166
+valPosE =
+
+  17   6
+
+enviado paquete de datos numero 166
+leader_tag = 3000155
+message_ranks = 3
+message_tags = 3000155
+Received data packet number 155
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 156
+dest_tag = 200167
+valPosE =
+
+  17   7
+
+enviado paquete de datos numero 167
+leader_tag = 3000156
+message_ranks = 4
+message_tags = 3000156
+Received data packet number 156
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 157
+dest_tag = 200168
+valPosE =
+
+  17   8
+
+enviado paquete de datos numero 168
+leader_tag = 3000157
+message_ranks = 1
+message_tags = 3000157
+Received data packet number 157
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 158
+dest_tag = 200169
+valPosE =
+
+  17   9
+
+enviado paquete de datos numero 169
+leader_tag = 3000158
+message_ranks = 2
+message_tags = 3000158
+Received data packet number 158
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 159
+dest_tag = 200170
+valPosE =
+
+  17  10
+
+enviado paquete de datos numero 170
+leader_tag = 3000159
+message_ranks = 3
+message_tags = 3000159
+Received data packet number 159
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 160
+dest_tag = 200171
+valPosE =
+
+  18   1
+
+enviado paquete de datos numero 171
+leader_tag = 3000160
+message_ranks = 4
+message_tags = 3000160
+Received data packet number 160
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 161
+dest_tag = 200172
+valPosE =
+
+  18   2
+
+enviado paquete de datos numero 172
+leader_tag = 3000161
+message_ranks = 1
+message_tags = 3000161
+Received data packet number 161
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 162
+dest_tag = 200173
+valPosE =
+
+  18   3
+
+enviado paquete de datos numero 173
+leader_tag = 3000162
+message_ranks = 2
+message_tags = 3000162
+Received data packet number 162
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 163
+dest_tag = 200174
+valPosE =
+
+  18   4
+
+enviado paquete de datos numero 174
+leader_tag = 3000163
+message_ranks = 3
+message_tags = 3000163
+Received data packet number 163
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 164
+dest_tag = 200175
+valPosE =
+
+  18   5
+
+enviado paquete de datos numero 175
+leader_tag = 3000164
+message_ranks = 4
+message_tags = 3000164
+Received data packet number 164
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 165
+dest_tag = 200176
+valPosE =
+
+  18   6
+
+enviado paquete de datos numero 176
+leader_tag = 3000165
+message_ranks = 1
+message_tags = 3000165
+Received data packet number 165
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 166
+dest_tag = 200177
+valPosE =
+
+  18   7
+
+enviado paquete de datos numero 177
+leader_tag = 3000166
+message_ranks = 2
+message_tags = 3000166
+Received data packet number 166
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 167
+dest_tag = 200178
+valPosE =
+
+  18   8
+
+enviado paquete de datos numero 178
+leader_tag = 3000167
+message_ranks = 3
+message_tags = 3000167
+Received data packet number 167
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 168
+dest_tag = 200179
+valPosE =
+
+  18   9
+
+enviado paquete de datos numero 179
+leader_tag = 3000168
+message_ranks = 4
+message_tags = 3000168
+Received data packet number 168
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 169
+dest_tag = 200180
+valPosE =
+
+  18  10
+
+enviado paquete de datos numero 180
+leader_tag = 3000169
+message_ranks = 1
+message_tags = 3000169
+Received data packet number 169
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 170
+dest_tag = 200181
+valPosE =
+
+  19   1
+
+enviado paquete de datos numero 181
+leader_tag = 3000170
+message_ranks = 2
+message_tags = 3000170
+Received data packet number 170
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 171
+dest_tag = 200182
+valPosE =
+
+  19   2
+
+enviado paquete de datos numero 182
+leader_tag = 3000171
+message_ranks = 3
+message_tags = 3000171
+Received data packet number 171
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 172
+dest_tag = 200183
+valPosE =
+
+  19   3
+
+enviado paquete de datos numero 183
+leader_tag = 3000172
+message_ranks = 4
+message_tags = 3000172
+Received data packet number 172
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 173
+dest_tag = 200184
+valPosE =
+
+  19   4
+
+enviado paquete de datos numero 184
+leader_tag = 3000173
+message_ranks = 1
+message_tags = 3000173
+Received data packet number 173
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 174
+dest_tag = 200185
+valPosE =
+
+  19   5
+
+enviado paquete de datos numero 185
+leader_tag = 3000174
+message_ranks = 2
+message_tags = 3000174
+Received data packet number 174
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 175
+dest_tag = 200186
+valPosE =
+
+  19   6
+
+enviado paquete de datos numero 186
+leader_tag = 3000175
+message_ranks = 3
+message_tags = 3000175
+Received data packet number 175
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 176
+dest_tag = 200187
+valPosE =
+
+  19   7
+
+enviado paquete de datos numero 187
+leader_tag = 3000176
+message_ranks = 4
+message_tags = 3000176
+Received data packet number 176
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 177
+dest_tag = 200188
+valPosE =
+
+  19   8
+
+enviado paquete de datos numero 188
+leader_tag = 3000177
+message_ranks = 1
+message_tags = 3000177
+Received data packet number 177
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 178
+dest_tag = 200189
+valPosE =
+
+  19   9
+
+enviado paquete de datos numero 189
+leader_tag = 3000178
+message_ranks = 2
+message_tags = 3000178
+Received data packet number 178
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 179
+dest_tag = 200190
+valPosE =
+
+  19  10
+
+enviado paquete de datos numero 190
+leader_tag = 3000179
+message_ranks = 3
+message_tags = 3000179
+Received data packet number 179
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 180
+dest_tag = 200191
+valPosE =
+
+  20   1
+
+enviado paquete de datos numero 191
+leader_tag = 3000180
+message_ranks = 4
+message_tags = 3000180
+Received data packet number 180
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 181
+dest_tag = 200192
+valPosE =
+
+  20   2
+
+enviado paquete de datos numero 192
+leader_tag = 3000181
+message_ranks = 1
+message_tags = 3000181
+Received data packet number 181
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 182
+dest_tag = 200193
+valPosE =
+
+  20   3
+
+enviado paquete de datos numero 193
+leader_tag = 3000182
+message_ranks = 2
+message_tags = 3000182
+Received data packet number 182
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 183
+dest_tag = 200194
+valPosE =
+
+  20   4
+
+enviado paquete de datos numero 194
+leader_tag = 3000183
+message_ranks = 3
+message_tags = 3000183
+Received data packet number 183
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 184
+dest_tag = 200195
+valPosE =
+
+  20   5
+
+enviado paquete de datos numero 195
+leader_tag = 3000184
+message_ranks = 4
+message_tags = 3000184
+Received data packet number 184
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 185
+dest_tag = 200196
+valPosE =
+
+  20   6
+
+enviado paquete de datos numero 196
+leader_tag = 3000185
+message_ranks = 1
+message_tags = 3000185
+Received data packet number 185
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 186
+dest_tag = 200197
+valPosE =
+
+  20   7
+
+enviado paquete de datos numero 197
+leader_tag = 3000186
+message_ranks = 2
+message_tags = 3000186
+Received data packet number 186
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 187
+dest_tag = 200198
+valPosE =
+
+  20   8
+
+enviado paquete de datos numero 198
+leader_tag = 3000187
+message_ranks = 3
+message_tags = 3000187
+Received data packet number 187
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 188
+dest_tag = 200199
+valPosE =
+
+  20   9
+
+enviado paquete de datos numero 199
+leader_tag = 3000188
+message_ranks = 4
+message_tags = 3000188
+Received data packet number 188
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 189
+dest_tag = 200200
+valPosE =
+
+  20  10
+
+enviado paquete de datos numero 200
+leader_tag = 3000189
+message_ranks = 1
+message_tags = 3000189
+Received data packet number 189
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 190
+leader_tag = 3000190
+message_ranks = 2
+message_tags = 3000190
+Received data packet number 190
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 191
+leader_tag = 3000191
+message_ranks = 3
+message_tags = 3000191
+Received data packet number 191
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30   0   0   0   0   0   0   0   0   0
+
+recvCounter = 192
+leader_tag = 3000192
+message_ranks = 4
+message_tags = 3000192
+Received data packet number 192
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30   0   0   0   0   0   0   0   0
+
+recvCounter = 193
+leader_tag = 3000193
+message_ranks = 1
+message_tags = 3000193
+Received data packet number 193
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30   0   0   0   0   0   0   0
+
+recvCounter = 194
+leader_tag = 3000194
+message_ranks = 2
+message_tags = 3000194
+Received data packet number 194
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30   0   0   0   0   0   0
+
+recvCounter = 195
+leader_tag = 3000195
+message_ranks = 3
+message_tags = 3000195
+Received data packet number 195
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30   0   0   0   0   0
+
+recvCounter = 196
+leader_tag = 3000196
+message_ranks = 4
+message_tags = 3000196
+Received data packet number 196
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30   0   0   0   0
+
+recvCounter = 197
+leader_tag = 3000197
+message_ranks = 1
+message_tags = 3000197
+Received data packet number 197
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30   0   0   0
+
+recvCounter = 198
+leader_tag = 3000198
+message_ranks = 2
+message_tags = 3000198
+Received data packet number 198
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30   0   0
+
+recvCounter = 199
+leader_tag = 3000199
+message_ranks = 3
+message_tags = 3000199
+Received data packet number 199
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30   0
+
+recvCounter = 200
+leader_tag = 3000200
+message_ranks = 4
+message_tags = 3000200
+Received data packet number 200
+C =
+
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+  30  30  30  30  30  30  30  30  30  30
+
+recvCounter = 201
+SUCCESS

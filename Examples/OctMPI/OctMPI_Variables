@@ -1,0 +1,676 @@
+# Created by Octave 2.1.72, Sat Dec 02 23:26:16 2006 CLST <kanibal@kubuntu>
+# name: comm
+# type: struct
+# length: 7
+# name: group
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 5
+ 0 1 2 3 4
+
+# name: host_rank
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: machine_db
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: struct
+# length: 11
+# name: dir
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 68
+/home/kanibal/cluster/matlab7/work17112006/OctaveMPI/Examples/OctMPI
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 68
+/home/kanibal/cluster/matlab7/work17112006/OctaveMPI/Examples/OctMPI
+
+
+# name: id_start
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 1 4
+
+# name: id_stop
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 3 5
+
+# name: machine
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 7
+kubuntu
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 5
+nodo2
+
+
+# name: n_machine
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+2
+
+# name: n_proc
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 3 2
+
+# name: octave_command
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 15
+/usr/bin/octave
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 15
+/usr/bin/octave
+
+
+# name: pc_unix_dir_map
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 2
+Z:
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 13
+/home/kanibal
+
+
+# name: remote_flags
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+ -n 
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+ -n 
+
+
+# name: remote_launch
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 5
+ ssh 
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 5
+ ssh 
+
+
+# name: type
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+unix
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+unix
+
+
+
+# name: machine_id
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 5
+ 1 1 1 2 2
+
+# name: rank
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: save_message_flag
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: size
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+5
+
+# name: A
+# type: matrix
+# rows: 20
+# columns: 15
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+# name: B
+# type: matrix
+# rows: 15
+# columns: 10
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+ 2 2 2 2 2 2 2 2 2 2
+# name: C
+# type: matrix
+# rows: 20
+# columns: 10
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+ 30 30 30 30 30 30 30 30 30 30
+# name: __nargin__
+# type: scalar
+0
+# name: i
+# type: scalar
+21
+# name: j
+# type: scalar
+1
+# name: dest_data_A
+# type: matrix
+# rows: 1
+# columns: 15
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+# name: dest_data_B
+# type: matrix
+# rows: 15
+# columns: 1
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+ 2
+# name: message_ranks
+# type: scalar
+4
+# name: comm_size
+# type: scalar
+5
+# name: valPosE
+# type: matrix
+# rows: 1
+# columns: 2
+ 20 10
+# name: dest
+# type: scalar
+4
+# name: valPosRR
+# type: matrix
+# rows: 1
+# columns: 2
+ 20 10
+# name: col
+# type: scalar
+10
+# name: input_tag
+# type: scalar
+200000
+# name: srcMPI
+# type: string
+# elements: 1
+# length: 57
+/home/kanibal/cluster/matlab7/work17112006/OctaveMPI/src/
+# name: leader
+# type: scalar
+0
+# name: leader_tag
+# type: scalar
+3000200
+# name: sendCounter
+# type: scalar
+201
+# name: my_rank
+# type: scalar
+0
+# name: output
+# type: scalar
+30
+# name: N2
+# type: scalar
+200
+# name: MPI_COMM_WORLD
+# type: global struct
+# length: 7
+# name: group
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 5
+ 0 1 2 3 4
+
+# name: host_rank
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: machine_db
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: struct
+# length: 11
+# name: dir
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 68
+/home/kanibal/cluster/matlab7/work17112006/OctaveMPI/Examples/OctMPI
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 68
+/home/kanibal/cluster/matlab7/work17112006/OctaveMPI/Examples/OctMPI
+
+
+# name: id_start
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 1 4
+
+# name: id_stop
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 3 5
+
+# name: machine
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 7
+kubuntu
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 5
+nodo2
+
+
+# name: n_machine
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+2
+
+# name: n_proc
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 2
+ 3 2
+
+# name: octave_command
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 15
+/usr/bin/octave
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 15
+/usr/bin/octave
+
+
+# name: pc_unix_dir_map
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 2
+Z:
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 13
+/home/kanibal
+
+
+# name: remote_flags
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+ -n 
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+ -n 
+
+
+# name: remote_launch
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 5
+ ssh 
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 5
+ ssh 
+
+
+# name: type
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: cell
+# rows: 1
+# columns: 2
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+unix
+
+# name: <cell-element>
+# type: string
+# elements: 1
+# length: 4
+unix
+
+
+
+# name: machine_id
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: matrix
+# rows: 1
+# columns: 5
+ 1 1 1 2 2
+
+# name: rank
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: save_message_flag
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+0
+
+# name: size
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: scalar
+5
+
+# name: message_tags
+# type: scalar
+3000200
+# name: output_tag
+# type: scalar
+3000000
+# name: done
+# type: scalar
+1
+# name: dest_tag
+# type: scalar
+200200
+# name: coefs_tag
+# type: scalar
+10000
+# name: sA
+# type: matrix
+# rows: 1
+# columns: 2
+ 20 15
+# name: sB
+# type: matrix
+# rows: 1
+# columns: 2
+ 15 10
+# name: fil
+# type: scalar
+20
+# name: recvCounter
+# type: scalar
+201
